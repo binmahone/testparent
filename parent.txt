@@ -3,5 +3,5 @@ i'm parent
 xxx
 master
 yyy
-add sth
-
+add sth 
+add sth in master
