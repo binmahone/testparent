@@ -14,3 +14,4 @@ add 4
 add 5
 hi
 add 100
+add 100 + 2
